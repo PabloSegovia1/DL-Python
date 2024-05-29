@@ -1,6 +1,7 @@
-# Resumen del Libro de Deep Learning (Todo con fines academicos)
+# Resumen del Libro de Deep Learning with Python
 
 Este repositorio contiene resúmenes, ejemplos de código y recursos adicionales del libro "Deep Learning with Python".
+(Todo con fines academicos)
 
 ## Estructura del Repositorio
 
